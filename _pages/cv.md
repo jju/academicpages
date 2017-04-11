@@ -19,8 +19,11 @@ Work experience
 ======
 * **Digital Literacy Librarian**: November 2016 - Present
   * *Strathcona County Library*, Sherwood Park, AB, Canada
-  * Duties
-  * Supervisor: Angela Kublik
+	* Developing new programs and services to meet the objectives identified in the library's Digital Literacy Strategy.
+	* Leading the provision of information services for and information literacy training of the public.
+	* Building proactive and responsive e-media and print collections for adults.
+	* Providing excellent customer service and provides research, reader’s advisory and technical assistance to the public in person, online and by phone.
+	* Promoting library programs and services.
 
 * **Adult Services Librarian**: September 2014 - October 2016
   * *Vancouver Island Regional Library*, Nanaimo, BC, Canada
@@ -58,7 +61,7 @@ Work experience
 	* Helped copy-catalogue the collection using the Koha library management system.
 
 * **Library Services Assistant 3**: August 2008 – July 2010
-	* *Winnipeg Public Library**, Winnipeg, MB, Canada
+	* *Winnipeg Public Library*, Winnipeg, MB, Canada
 	* Assisted patrons in finding appropriate library material in Adult, Children's, English as an Additional Language and Audiovisual departments.
 	* Ran monthly Teen Book Club, Youth Advisory Council and Teen Comics Club meetings.
 	* Assisted in technology trouble-shooting for users and staff.
@@ -75,12 +78,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Helping people find information they seek through careful combination of reference interviews, professional knowledge and library resources (both in-person and digitally).
+* Instructing library users in the use of electronic information sources and tools.
+* Writing & speaking on technical & literary subjects in a clear and engaging style.
+* Editing and producing digital media (podcasts, videos) using open-source tools.
+* Advocating for libraries as centres for knowledge creation and intellectual freedom for all.
+* Educating people about the important information policy decisions that affect them.
+* Continually learning and participating in the library community.
 
 Publications
 ======
