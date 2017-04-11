@@ -19,11 +19,11 @@ Work experience
 ======
 * **Digital Literacy Librarian**: November 2016 - Present
   * *Strathcona County Library*, Sherwood Park, AB, Canada
-	* Developing new programs and services to meet the objectives identified in the library's Digital Literacy Strategy.
-	* Leading the provision of information services for and information literacy training of the public.
-	* Building proactive and responsive e-media and print collections for adults.
-	* Providing excellent customer service and provides research, reader’s advisory and technical assistance to the public in person, online and by phone.
-	* Promoting library programs and services.
+  * Developing new programs and services to meet the objectives identified in the library's Digital Literacy Strategy.
+  * Leading the provision of information services for and information literacy training of the public.
+  * Building proactive and responsive e-media and print collections for adults.
+  * Providing excellent customer service and provides research, reader’s advisory and technical assistance to the public in person, online and by phone.
+  * Promoting library programs and services.
 * **Adult Services Librarian**: September 2014 - October 2016
   * *Vancouver Island Regional Library*, Nanaimo, BC, Canada
   * Planned and delivered in-house and outreach programming for adults and seniors focusing on technology (including ebooks and online privacy/security) and storytelling.
