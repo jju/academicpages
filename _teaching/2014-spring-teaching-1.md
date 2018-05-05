@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "Digital Literacy Instruction"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "public library instruction"
+permalink: /teaching/scl-diglit
+venue: "Strathcona County Library"
+date: 2017-01-01
+location: "Sherwood Park, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+At Strathcona County Library I am responsible for the digital literacy instruction, which includes three main streams.
 
-Heading 1
+Getting Started With ...
 ======
 
-Heading 2
+These courses are for beginners designed to familiarize them with the basics of their mobile devices or operating systems. As of 2017 we focus on Windows 10, Android and iOS.
+
+Doing More With ...
 ======
 
-Heading 3
+These courses are more interactive and are designed to be more hands-on and exploratory, but they still focus on different operating systems rather than cross-platform topics.
+
+Intro to ...
 ======
+
+These classes are the one-off special topics classes. Our privacy and security instruction is a series of **Intro to...** classes.
